@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e11c3105-404c-4c5d-a210-672837444fed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1XiUBzNzhpSH4tT2cevHgVawRJi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e11c3105-404c-4c5d-a210-672837444fed" name="Default Changelist" comment="" />
+      <created>1581528276982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581528276982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure" timestamp="1581529145633">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1581529145633" />
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581621032693">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581621032693" />
+    <state x="801" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1581529495275">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581529495275" />
+    <state x="699" y="222" width="585" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1581529343661">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="699" y="222" width="585" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581529343661" />
+    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl" timestamp="1581623636304">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581623636304" />
+    <state x="785" y="473" key="Github.CreateGistDialog" timestamp="1581621469941">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="785" y="473" key="Github.CreateGistDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581621469941" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1581623624817">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581623624816" />
+    <state x="302" y="153" width="1372" height="799" key="new project wizard" timestamp="1581530365296">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="153" width="1372" height="799" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1581530365296" />
+    <state x="657" y="253" width="672" height="677" key="run.anything.popup" timestamp="1581530203522">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" width="672" height="677" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581530203522" />
+    <state x="643" y="236" width="690" height="632" key="svn.repositoryBrowser" timestamp="1581621705973">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="643" y="236" width="690" height="632" key="svn.repositoryBrowser/67.27.1853.1053@67.27.1853.1053" timestamp="1581621705973" />
+  </component>
+</project>
