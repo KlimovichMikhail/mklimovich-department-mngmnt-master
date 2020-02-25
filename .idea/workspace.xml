@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e11c3105-404c-4c5d-a210-672837444fed" name="Default Changelist" comment="First Commit" />
+    <list default="true" id="e11c3105-404c-4c5d-a210-672837444fed" name="Default Changelist" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +48,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -66,6 +83,29 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
@@ -87,22 +127,46 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="699" y="222" width="585" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581529343661" />
-    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl" timestamp="1581623636304">
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1581625598663">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581623636304" />
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581625598663" />
+    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl" timestamp="1582659744411">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582659744411" />
     <state x="785" y="473" key="Github.CreateGistDialog" timestamp="1581621469941">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="785" y="473" key="Github.CreateGistDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581621469941" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1581623624817">
+    <state x="742" y="452" key="Github.ShareDialog" timestamp="1582659973130">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581623624816" />
-    <state x="588" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1581623809468">
+    <state x="742" y="452" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582659973130" />
+    <state x="576" y="298" width="824" height="508" key="IDE.errors.dialog" timestamp="1581625484371">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581623809468" />
+    <state x="576" y="298" width="824" height="508" key="IDE.errors.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581625484371" />
+    <state x="635" y="224" width="706" height="657" key="RollbackChangesDialog" timestamp="1581625524096">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="635" y="224" width="706" height="657" key="RollbackChangesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581625524096" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1582660720439">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582660720439" />
+    <state x="588" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1581625392347">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581625392347" />
+    <state x="776" y="360" width="424" height="384" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1581625620589">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="360" width="424" height="384" key="git4idea.history.wholeTree.VcsStructureChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581625620589" />
+    <state x="643" y="341" width="690" height="423" key="git4idea.merge.GitMergeDialog" timestamp="1581624601812">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="643" y="341" width="690" height="423" key="git4idea.merge.GitMergeDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581624601812" />
     <state x="302" y="153" width="1372" height="799" key="new project wizard" timestamp="1581530365296">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -111,9 +175,13 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="657" y="253" width="672" height="677" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581530203522" />
-    <state x="643" y="236" width="690" height="632" key="svn.repositoryBrowser" timestamp="1581621705973">
+    <state x="643" y="236" width="690" height="632" key="svn.repositoryBrowser" timestamp="1582659759336">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="643" y="236" width="690" height="632" key="svn.repositoryBrowser/67.27.1853.1053@67.27.1853.1053" timestamp="1581621705973" />
+    <state x="643" y="236" width="690" height="632" key="svn.repositoryBrowser/67.27.1853.1053@67.27.1853.1053" timestamp="1582659759336" />
+    <state x="642" y="319" width="682" height="465" key="svn4idea.import.options" timestamp="1582659749570">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="642" y="319" width="682" height="465" key="svn4idea.import.options/67.27.1853.1053@67.27.1853.1053" timestamp="1582659749570" />
   </component>
 </project>
